@@ -1,0 +1,12 @@
+{
+    "personeel": [
+        {
+            "naam": "Angela Bakker",
+            "werktijd": 360,
+            "beroepstype": "Onderhoudsmonteur",
+            "bevoegdheid": "Stagiair",
+            "specialist_in_attracties": "",
+            "pauze_opsplitsen": 1
+        }
+    ]
+}

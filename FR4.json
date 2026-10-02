@@ -1,0 +1,14 @@
+{
+    "personeel": [
+        {
+            "naam": [
+                "Angela Bakker"
+            ],
+            "leeftijd": [
+                32
+            ],
+            "verlaagde_fysieke_belasting": 0,
+            "max_fysieke_belasting": 0
+        }
+    ]
+}
